@@ -1,18 +1,18 @@
-# Hi there 👋, I'm Ahmadreza Amiri  
+# Hello world!, I'm Ahmadreza Amiri  
 
 🎓 Final-year Computer Engineering student (born 2004)  
 💻 Passionate about software development, data-driven solutions, and cyber security  
 
 ---
 
-## 🚀 About Me
+##  About Me
 I am a computer engineering student with strong enthusiasm for building modern applications and analyzing complex data.  
 My focus is on **Python, Data Analytics, Data Security, and Web Development**.  
 I enjoy working on challenging projects, learning new technologies, and sharing knowledge with the community.  
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 - **Programming Languages:** Python, JavaScript, HTML, CSS  
 - **Data & Security:** Data Analytics, Data Security, SQL  
@@ -27,7 +27,7 @@ I enjoy working on challenging projects, learning new technologies, and sharing 
 
 ---
 
-## 📈 GitHub Stats  
+##  GitHub Stats  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadrezaamirii&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrezaamirii&layout=compact&theme=radical)  
